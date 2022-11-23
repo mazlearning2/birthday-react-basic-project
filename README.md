@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Preview App [](https://cozy-caramel-53283f.netlify.app/).
+[Preview App](https://cozy-caramel-53283f.netlify.app/).
 
 In the project directory, you can run:
 
